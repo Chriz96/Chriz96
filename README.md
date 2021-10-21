@@ -1,7 +1,7 @@
 <h1 align="center">Hello!!, I'm Christopher</h1>
 <h3 align="center">a junior front-end developer.</h3>
 
-- 🌱 I’m currently learning **React, Phyton and Wordpress**
+- 🌱 I’m currently learning **React, Python and Wordpress**
 
 - 👨‍💻 All of my projects are available at [https://chriz96.github.io/Christopher-Portfolio/](https://chriz96.github.io/Christopher-Portfolio/)
 
