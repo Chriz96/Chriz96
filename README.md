@@ -1,5 +1,6 @@
 <img src="assets/images/readme-title.png" alt="Header image" style="max-width: 100%;">
 <hr>
+<h4>
 <p style="font-size:15px;">
 I'm a <span style="font-weight:bold; color:#ff3333; text-shadow:2px 2px 10px black;">junior developer</span>, just graduated from university. 
 <br>
@@ -8,22 +9,22 @@ I like to constantly <span style="font-weight:bold; color:#ff3333; text-shadow:2
 Besides this I like to <span style="font-weight:bold; color:#ff3333; text-shadow:2px 2px 10px black; ">comment</span> on parts of my code and <span style="font-weight:bold; color:#ff3333; text-shadow:2px 2px 10px black; ">document</span> little things. 
 <br>
 <br>
-&emsp;  &emsp; • I’m currently learning <code><a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width:15%;"/></a></code>
-and <code><a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="max-width:15%"/></a></code>.
+&emsp;  &emsp; • I’m currently learning <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width:15%;"/></a>
+and <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="max-width:15%"/></a>.
 <br>
 &emsp;  &emsp; • All of my projects are available at <span style="font-weight:bold;"><a href="https://chriz96.github.io/Christopher-Portfolio/" target="_blank">Portfolio Site</a></span>.
 <br><br>
-<span style="font-weight:bold;">Connect with me:</span>
-<br><br>
+<h3>Connect with me:</h3>
+<br>
 <a href="mailto:christopher.acuna96@gmail.com?subject=[Github]%20Contact" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&amp;logo=GMail&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/Chriz96" target="_blank"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&amp;logo=Github&amp;logoColor=white" alt="Github" style="max-width: 100%;"></a>
 <a href="https://linkedin.com/in/christopher-acuña-b3953914a" target="blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <hr>
 
 </p>
+</h4>
 
-<details>
-<summary><span style="font-weight:bold; font-size:15px;">📚 Skills</span></summary>
+<h3>📚 Skills</h3>
 <br>
 <a href="https://html.com" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%; margin-left:3px;"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%; margin-left:3px;"/></a>
@@ -38,12 +39,8 @@ and <code><a href="https://nodejs.org/" target="_blank"><img src="https://img.sh
 <a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" style="max-width: 100%; margin-left:3px;"/></a>
 <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%; margin-left:1px;"/></a>
 
-</details>
-
 <br>
-
-<details>
-<summary><span style="font-weight:bold; font-size:15px;">🧰 Tools</span></summary>
+<h3>🧰 Tools </h3>
 <br>
 <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%; margin-left:3px;"/></a>
 <a href="https://www.npmjs.com" target="_blank"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" style="max-width: 100%; margin-left:3px;"/></a>
@@ -53,19 +50,19 @@ and <code><a href="https://nodejs.org/" target="_blank"><img src="https://img.sh
 </details>
 <hr>
 
-<details>
+<h3><details>
 <summary>
-<span style="font-weight:bold; font-size:15px;">
-📊 Github Stats</span></summary>
+📊 Github Stats
+</summary>
 <br>
 
 ![Christopher GitHub stats](https://github-readme-stats.vercel.app/api?username=chriz96&show_icons=true&icon_color=FF1919&title_color=FF1919&bg_color=#00FFFFFF&hide_border=false&border_color=#000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriz96&layout=compact&title_color=FF1919&hide_border=false&bg_color=#00FFFFFF&border_color=#000000)](https://github.com/chriz96/github-readme-stats)
 
-</details>
+</details><h3>
 <hr>
 
-<span style="font-weight:bold; font-size:15px;"> 🎧 Spotify Playing </span>
+<h3> 🎧 Spotify Playing </h3>
 
 [![Spotify](https://spotify-vercel-ro5d45pf7-chriz96.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
