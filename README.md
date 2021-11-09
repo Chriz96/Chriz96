@@ -18,7 +18,7 @@ and <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.
 <br>
 <a href="mailto:christopher.acuna96@gmail.com?subject=[Github]%20Contact" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&amp;logo=GMail&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/Chriz96" target="_blank"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&amp;logo=Github&amp;logoColor=white" alt="Github" style="max-width: 100%;"></a>
-<a href="https://linkedin.com/in/christopher-acuña-b3953914a" target="blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/christopheracuña" target="blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <hr>
 
 </p>
