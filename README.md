@@ -65,4 +65,4 @@ and <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.
 
 <h3> 🎧 Spotify Playing </h3>
 
-[![Spotify](https://spotify-vercel-ro5d45pf7-chriz96.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-vercel-ro5d45pf7-chriz96.vercel.app/api/spotify)](https://open.spotify.com/user/xxchris96xx)
