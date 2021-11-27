@@ -61,8 +61,3 @@ and <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriz96&layout=compact&title_color=FF1919&hide_border=false&bg_color=#00FFFFFF&border_color=#000000)](https://github.com/chriz96/github-readme-stats)
 
 </details></h3>
-<hr>
-
-<h3> 🎧 Spotify Playing </h3>
-
-[![Spotify](https://spotify-vercel-ro5d45pf7-chriz96.vercel.app/api/spotify)](https://open.spotify.com/user/xxchris96xx)
